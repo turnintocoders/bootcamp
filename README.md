@@ -80,6 +80,13 @@ In the 8 weeks of the bootcamp we'll explore:
 ### Project
   - Front-end data visualisation. Propose yours! (e.g. game, graphing, todo app with stats, dashboard)
 
+## Example week schedule
+  - Monday: 10-12 workshop, 15-17 workshop, group study
+  - Tuesday: 10-12 workshop, project introduction and group work
+  - Wednesday: group work on the project
+  - Thursday: project, 15-17 code review with external mentors
+  - Friday: project, 15-17 group presentation of the projects, meeting with companies and externals
+
 ## Projects weeks 9-12
 
 Build a meaningful project, for one month. We'll look for real work from clients, we are open to develop your own project, or just build something for your portfolio. The importance is to work in a team for an extended period of time.
