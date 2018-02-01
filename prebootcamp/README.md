@@ -144,6 +144,8 @@ Sorry, but you will need to install Linux. You can keep your Windows and dual-bo
 
 Install [Ubuntu LTS](https://www.ubuntu.com/download/desktop) following the links in that page.
 
+You can use [Etcher](https://etcher.io/) to burn the image on a USB stick.
+
 
 ### For Linux
 
