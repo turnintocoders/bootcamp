@@ -11,9 +11,8 @@ This project is heavily inspired by [Founders and Coders](https://foundersandcod
 
 ## Table of contents
 
-- **Prebootcamp** or what you should do before the bootcamp
-  - you need to complete the [prerequisites](prebootcamp/README.md#prerequisites)
-  - you should have a look at the [precourse material](prebootcamp/README.md#precourse-material)
+- [Prebootcamp](prebootcamp/README.md) or what you should do before the bootcamp
+- [Week 1 - Toolkit](week-1/README.md) on working together
 
 ## Planning
 
