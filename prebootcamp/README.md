@@ -26,6 +26,17 @@ You can find more material below, that might help working on the prerequisites. 
 
 The following material is meant as a reference for what you are expected to know before the bootcamp, but maybe you are not familiar yet. There's no particular order for the following sections, feel free to jump around as you prefer.
 
+### Outline
+
+- [Command line](#command-line)
+- [Git & Github](#git--github)
+- [Markdown](#markdown)
+- [Semantic HTML](#semantic-html)
+- [CSS](#css)
+- [DOM manipulation](#dom-manipulation)
+- [Practical project](#practical-project)
+- [Installation list](#installation-list)
+- [Optional extras](#optional-extras)
 
 ### Command line
 
