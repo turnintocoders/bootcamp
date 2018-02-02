@@ -18,6 +18,10 @@
 
 - Research how to add colours
 - Research how to add branch name and git folder status
+- Research dotfiles, start your own, from scratch. [Inspirations](https://dotfiles.github.io/).
+- Research vim, with `vimtutor`. Just install vim and you can get started:
+  - Mac `brew install vim`
+  - Ubuntu `sudo apt install vim`
 
 
 ## CSS
