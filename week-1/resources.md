@@ -30,6 +30,13 @@
 - [BEM](https://bem.info/)
 
 
+## DOM manipulation
+
+- [Cross site scripting](https://developer.mozilla.org/en-US/docs/Glossary/Cross-site_scripting) (e.g. [innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML))
+- [Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
+- [Events](https://eloquentjavascript.net/14_event.html)
+
+
 ## Accessibility
 
 - [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn) Chrome extension

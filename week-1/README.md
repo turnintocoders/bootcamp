@@ -1,4 +1,4 @@
-# Week 1 - Toolkit
+# Week 1 - Toolkit & advanced JS
 
 
 ## Menu
@@ -19,24 +19,32 @@
 - 16.00 - 18.00 guided walk through [resources](resources.md)
 
 
-## Day 2 and 3
+## Day 2
 
-- 10.00 - 18.00 [project](project.md) work
+- 10.00 - 11.00 [CSS challenge](https://github.com/foundersandcoders/css-gallery-challenge)
+- 11.00 - 18.00 [project](project.md) work
+
+
+## Day 3
+
+- 10.00 - 11.00 [DOM manipulation challenge](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
+- 11.00 - 18.00 [project](project.md) work
 
 
 ## Day 4
 
-- 10.00 - 11.00 [CSS challenge](https://github.com/foundersandcoders/css-gallery-challenge)
+- 10.00 - 11.00 [traffic light challenge](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
 - 11.00 - 13.00 code review
 
 -- LUNCH --
 
-- 15.00 - 16.00 [accessibility workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
-- 16.00 - 17.00 [accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge)
+- 15.00 - 16.00 [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
+- 16.00 - 17.00 [accessibility workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
 
 
 ## Day 5
 
-- 10.00 - 16.00 [project](project.md) work
+- 10.00 - 11.00 [accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge)
+- 11.00 - 16.00 [project](project.md) work
 - 16.00 - 17.00 retrospective
 - 17.00 - 18.00 external speaker

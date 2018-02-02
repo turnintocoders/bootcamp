@@ -5,6 +5,9 @@
 - CSS
   - build mobile-first responsive website
   - investigate ways of writing maintainable CSS
+- JavaScript
+  - callbacks
+  - DOM manipulation
 - pair programming
   - reasons why
   - how to do it

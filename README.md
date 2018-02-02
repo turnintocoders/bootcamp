@@ -11,8 +11,8 @@ This project is heavily inspired by [Founders and Coders](https://foundersandcod
 
 ## Table of contents
 
-- [Prebootcamp](prebootcamp/README.md) or what you should do before the bootcamp
-- [Week 1 - Toolkit](week-1/README.md) on working together
+- [Prebootcamp](prebootcamp/README.md)—or what you should do before the bootcamp
+- [Week 1 - Toolkit & advanced JS](week-1/README.md)—on working together, and a bit more JavaScript
 
 ## Planning
 
