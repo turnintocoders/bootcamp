@@ -6,7 +6,9 @@
 - Acceptance tests
 - Test-driven development (TDD)
 - Pure functions
+- More functional programming
 - Setting up a test suite
-- JavaScript event loop
+- What is code coverage
+- How a linter works
 - What is software architecture
 - Begin path of design patterns

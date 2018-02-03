@@ -30,6 +30,11 @@
 - [BEM](https://bem.info/)
 
 
+## JavaScript
+
+- [What the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+
 ## DOM manipulation
 
 - [Cross site scripting](https://developer.mozilla.org/en-US/docs/Glossary/Cross-site_scripting) (e.g. [innerHTML](https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML))

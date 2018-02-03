@@ -8,6 +8,8 @@
 - JavaScript
   - callbacks
   - DOM manipulation
+  - event loop
+- introduction to NPM
 - pair programming
   - reasons why
   - how to do it
