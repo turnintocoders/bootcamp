@@ -9,7 +9,8 @@
   - callbacks
   - DOM manipulation
   - event loop
-- introduction to NPM
+- NPM
+  - introduction
 - pair programming
   - reasons why
   - how to do it

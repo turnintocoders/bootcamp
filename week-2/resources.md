@@ -15,3 +15,11 @@
 - [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
 - [JavaScript best practices](https://github.com/dwyl/javascript-best-practice)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Mastering the Module Pattern](https://toddmotto.com/mastering-the-module-pattern/)
+- [JavaScript Module Pattern: In Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html)
+
+
+## Software Architecture Design
+
+- [The Importance of Software Architecture](http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf)
+- [MSDN's comprehensive guide to software architecture](https://msdn.microsoft.com/en-gb/library/ee658098.aspx)
