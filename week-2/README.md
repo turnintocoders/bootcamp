@@ -33,7 +33,7 @@
 
 ## Day 4
 
-- 10.00 - 11.00 [objects, arrays and array methods challenge](https://github.com/foundersandcoders/mc-objects-and-arrays)
+- 10.00 - 11.00 [objects, arrays and array methods challenge](https://github.com/foundersandcoders/mc-objects-and-arrays) or [functional programming in JavaScript](https://github.com/katkelemen/FuncProgMorninChallenge)
 - 11.00 - 13.00 [code review](https://github.com/thoughtbot/guides/tree/master/code-review)
 
 -- LUNCH --

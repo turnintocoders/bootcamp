@@ -33,7 +33,7 @@
 
 ## Day 4
 
-- 10.00 - 11.00 [traffic light challenge](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
+- 10.00 - 11.00 [traffic light challenge](https://github.com/foundersandcoders/morning-challenge-traffic-lights) or [a gentle introduction to asynchronous programming in JavaScript](https://github.com/foundersandcoders/mc-do-this-then-do-thatA gentle introduction to asynchronous programming in javascript)
 - 11.00 - 13.00 code review
 
 -- LUNCH --
