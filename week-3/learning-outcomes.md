@@ -1,0 +1,25 @@
+# Week 3 - Learning outcomes
+
+- HTTP
+  - what is it?
+  - different methods
+  - status codes
+  - REST
+- AJAX
+  - XMLHttpRequest
+  - CORS
+- API
+  - what is it?
+  - HTTP and APIs
+  - xhr and APIs
+  - concealing API keys
+- JSON
+  - what is it?
+- Node.js
+  - introduction
+- JavaScript
+  - asynchronous programming
+  - parallel functions
+  - more functional programming
+- CSS
+  - flexbox
