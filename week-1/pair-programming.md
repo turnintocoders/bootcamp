@@ -30,7 +30,7 @@ Try to stick to the timing so that you can swap pair and try it again.
 
 ## Gotchas
 
-Both driver and co-pilot should keep their role for the time that they have decided upfront. It is like role-playing, keep your role for your turn. When the time is up you will swap and have the opportunity to take on the other role.
+Both driver and navigator should keep their role for the time that they have decided upfront. It is like role-playing, keep your role for your turn. When the time is up you will swap and have the opportunity to take on the other role.
 
 Pair programming is a soft skill, there aren't strict rules. Especially at the beginning it will feel weird and time wasting, but practicing will show the real value, especially on more complex projects.
 
