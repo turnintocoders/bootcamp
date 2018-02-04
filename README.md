@@ -14,7 +14,8 @@ This project is heavily inspired by [Founders and Coders](https://foundersandcod
 - [Prebootcamp](prebootcamp/README.md)—or what you should do before the bootcamp
 - [Week 1 - Toolkit & advanced JS](week-1/README.md)—on working together, and a bit more JavaScript
 - [Week 2 - Testing](week-2/README.md)—on writing tests
-- [Week 3 - API](week-2/README.md)—interacting with APIs
+- [Week 3 - API](week-3/README.md)—interacting with APIs
+- [Week 4 - Node.js](week-4/README.md)—beginning to write backend code
 
 ## Planning
 
