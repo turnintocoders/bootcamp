@@ -1,5 +1,12 @@
 # Week 1 - Learning outcomes
 
+- pair programming
+  - reasons why
+  - how to do it
+- Git
+  - learn and use commands to cooperate on code
+- group working
+  - use Github to communicate about code
 - HTML
   - give a semantic structure to a page
 - CSS
@@ -9,15 +16,9 @@
   - callbacks
   - DOM manipulation
   - event loop
-- NPM
-  - introduction
-- pair programming
-  - reasons why
-  - how to do it
-- Git
-  - learn and use commands to cooperate on code
-- group working
-  - use Github to communicate about code
+- Node.js
+  - introduction to NPM
+  - install with NVM
 - accessibility
   - why websites should be accessible to everyone
   - build a website with a particular focus on accessibility
