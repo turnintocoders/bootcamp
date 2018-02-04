@@ -26,13 +26,13 @@
 
 ## Day 3
 
-- 10.00 - 11.00 [parallel function challenge](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/morning-challenge.md)
+- 10.00 - 11.00 [waterfall challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
 - 11.00 - 18.00 [project](project.md) work
 
 
 ## Day 4
 
-- 10.00 - 11.00 [waterfall challenge](https://github.com/foundersandcoders/mc-waterfall-chaser)
+- 10.00 - 11.00 [convert ES6 code to ES5 challenge](https://github.com/stevehopkinson/es6-challenge)
 - 11.00 - 13.00 [code review](https://github.com/thoughtbot/guides/tree/master/code-review)
 
 -- LUNCH --

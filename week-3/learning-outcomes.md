@@ -21,5 +21,6 @@
   - asynchronous programming
   - parallel functions
   - more functional programming
+  - introduction to ES6
 - CSS
   - flexbox
