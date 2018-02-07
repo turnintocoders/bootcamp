@@ -33,13 +33,13 @@
 
 ## Day 4
 
-- 10.00 - 11.00 [traffic light challenge](https://github.com/foundersandcoders/morning-challenge-traffic-lights) or [a gentle introduction to asynchronous programming in JavaScript](https://github.com/foundersandcoders/mc-do-this-then-do-that)
-- 11.00 - 13.00 code review
+- 10.00 - 11.00 [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
+- 11.00 - 12.00 [A gentle introduction to asynchronous programming in JavaScript](https://github.com/turnintocoders/mc-do-this-then-do-that)
+- 12.00 - 13.00 code review
 
 -- LUNCH --
 
-- 15.00 - 16.00 [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
-- 16.00 - 17.00 [accessibility workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
+- 15.00 - 16.00 [accessibility workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
 
 
 ## Day 5
