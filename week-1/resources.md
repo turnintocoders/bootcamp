@@ -12,7 +12,8 @@
 - [Github flow](https://guides.github.com/introduction/flow/)
 - [Learn Git branching](https://learngitbranching.js.org/)
 - [Advanced Git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overview) on merging vs. rebasing, resetting, checking out, reverting, reflog
-- [Oh shit, git!](http://ohshitgit.com/) Small selection of useful github tips.
+- [Oh shit, git!](http://ohshitgit.com/) a small selection of useful Git tips
+- [gitx](https://rowanj.github.io/gitx/) (macOS) or [gitk](https://git-scm.com/docs/gitk) (Linux) are two small but nice graphical interfaces to visualise Git history
 
 ## Command line
 
