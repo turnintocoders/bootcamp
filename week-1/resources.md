@@ -12,7 +12,7 @@
 - [Github flow](https://guides.github.com/introduction/flow/)
 - [Learn Git branching](https://learngitbranching.js.org/)
 - [Advanced Git Tutorials](https://www.atlassian.com/git/tutorials/advanced-overview) on merging vs. rebasing, resetting, checking out, reverting, reflog
-
+- [Oh shit, git!](http://ohshitgit.com/) Small selection of useful github tips.
 
 ## Command line
 
