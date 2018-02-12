@@ -17,7 +17,7 @@
 
 - 15.00 - 16.00 [project](project.md) introduction
 - 16.00 - 17.00 review of last week's challenges
-- 16.00 - 18.00 guided walk through [resources](resources.md)
+- 17.00 - 18.00 guided walk through [resources](resources.md)
 
 
 ## Day 2
