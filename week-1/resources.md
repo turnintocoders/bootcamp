@@ -1,6 +1,18 @@
 # Week 1 - Resources
 
 
+## Menu
+
+1. [Pair programming](#pair-programming)
+2. [Git](#git)
+3. [Command line](#command-line)
+4. [CSS](#css)
+5. [JavaScript](#javascript)
+6. [Node.js](#nodejs)
+7. [DOM manipulation](dom-manipulation)
+8. [Accessibility](#accessibility)
+
+
 ## Pair programming
 
 - Joel Spolsky on [Fire and Motion](https://www.joelonsoftware.com/2002/01/06/fire-and-motion/)
