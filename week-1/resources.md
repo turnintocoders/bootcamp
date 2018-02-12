@@ -38,7 +38,7 @@
 
 ## Node.js
 
-- [Install using NVM](https://github.com/creationix/nvm)
+- [Install Node.js using NVM](https://github.com/creationix/nvm)
 
 
 ## DOM manipulation
@@ -53,4 +53,5 @@
 - [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn) Chrome extension
 - [tota11y](https://chrome.google.com/webstore/detail/tota11y-chrome-extension/jbhkjcigeionejpngkcdccblocdnjini) Chrome extension
 - [a11y](https://addyosmani.com/a11y/) Web accessibility audit tool
+- [pa11y](https://github.com/pa11y/pa11y) command line tool for accessibility testing
 - [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY&index=30&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) YouTube series on accessibility, by Google
