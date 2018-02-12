@@ -9,13 +9,14 @@
 
 ## Day 1
 
-- 10.00 - 11.00 [roman numerals TDD code-along](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
+- 10.00 - 11.00 [roman numerals TDD code-along](https://github.com/foundersandcoders/roman-numeral-tdd-codealong), [clone me](https://github.com/turnintocoders/ws-tdd-code-along)
 - 11.00 - 12.00 [Tape (TDD) workshop](https://github.com/AbdullahChaudhry/fizzbuzz)
 - 12.00 - 13.00 [pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing)
 
 -- LUNCH --
 
 - 15.00 - 16.00 [project](project.md) introduction
+- 16.00 - 17.00 review of last week's challenges
 - 16.00 - 18.00 guided walk through [resources](resources.md)
 
 
