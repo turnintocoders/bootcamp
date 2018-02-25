@@ -22,14 +22,12 @@
 
 ## Day 2
 
-- 10.00 - 11.00 setup a linter, (e.g. [goodparts](https://github.com/dwyl/goodparts))
-- 11.00 - 18.00 [project](project.md) work
+- 10.00 - 18.00 [project](project.md) work
 
 
 ## Day 3
 
-- 10.00 - 11.00 add some [acceptance tests](https://github.com/dwyl/learn-nightwatch) to your project
-- 11.00 - 18.00 [project](project.md) work
+- 10.00 - 18.00 [project](project.md) work
 
 
 ## Day 4
@@ -45,7 +43,6 @@
 
 ## Day 5
 
-- 10.00 - 11.00 [code coverage challenge](https://github.com/dwyl/learn-tape#bonus-level), add it to your project
 - 10.00 - 16.00 [project](project.md) work
 - 16.00 - 17.00 retrospective
 - 17.00 - 18.00 external speaker

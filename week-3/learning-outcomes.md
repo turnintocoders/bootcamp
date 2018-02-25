@@ -15,8 +15,6 @@
   - concealing API keys
 - JSON
   - what is it?
-- Node.js
-  - introduction
 - JavaScript
   - asynchronous programming
   - parallel functions

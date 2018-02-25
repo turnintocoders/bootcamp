@@ -11,7 +11,6 @@
 - JavaScript
   - pure functions
   - functional programming
-  - linting
   - begin path of design patterns
 - software architecture
   - what is it?

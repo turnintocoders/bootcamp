@@ -26,11 +26,6 @@
 - [Postman's documentation](https://www.getpostman.com/docs/requests).
 
 
-## Node.js
-
-- [Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node) -- beginners guide to Node.
-
-
 ## CSS
 
 - [Flexbox froggy](http://flexboxfroggy.com/)

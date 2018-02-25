@@ -32,8 +32,7 @@
 
 ## Day 4
 
-- 10.00 - 11.00 [convert ES6 code to ES5 challenge](https://github.com/stevehopkinson/es6-challenge)
-- 11.00 - 13.00 [code review](https://github.com/thoughtbot/guides/tree/master/code-review)
+- 10.00 - 13.00 [code review](https://github.com/thoughtbot/guides/tree/master/code-review)
 
 -- LUNCH --
 
@@ -41,7 +40,6 @@
 
 ## Day 5
 
-- 10.00 - 11.00 [array methods, reduce, and you](https://github.com/foundersandcoders/mc-array-methods-reduce)
 - 10.00 - 16.00 [project](project.md) work
 - 16.00 - 17.00 retrospective
 - 17.00 - 18.00 external speaker
