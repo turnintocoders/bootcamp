@@ -14,7 +14,8 @@
 -- LUNCH --
 
 - 15.00 - 16.00 [project](project.md) introduction
-- 16.00 - 18.00 guided walk through [resources](resources.md)
+- 16.00 - 17.00 [Node.js TDD workshop](https://github.com/foundersandcoders/ws-tdd-node-server)
+- 17.00 - 18.00 guided walk through [resources](resources.md)
 
 ## Day 2
 
@@ -40,7 +41,7 @@
 
 ## Day 5
 
-- 10.00 - 11.00 TBC challenge
+- 10.00 - 11.00 [traffic light challenge](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
 - 10.00 - 16.00 [project](project.md) work
 - 16.00 - 17.00 retrospective
 - 17.00 - 18.00 external speaker
