@@ -36,7 +36,7 @@
 
 -- LUNCH --
 
-- 15.00 - 18.00 [Node.js introductory workshop](https://github.com/foundersandcoders/Node-Intro-Workshop)
+- 15.00 - 18.00 [project](project.md) work
 
 ## Day 5
 
