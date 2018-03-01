@@ -16,6 +16,7 @@ This project is heavily inspired by [Founders and Coders](https://foundersandcod
 - [Week 2 - Testing](week-2/README.md)—on writing tests
 - [Week 3 - API](week-3/README.md)—interacting with APIs
 - [Week 4 - Node.js](week-4/README.md)—beginning to write backend code
+- [Week 5 - Database](week-5/README.md)—using a DB in a webapp
 
 ## Planning
 
