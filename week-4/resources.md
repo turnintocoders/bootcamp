@@ -16,4 +16,3 @@
 ## Deploy
 
 - [Heroku: Node.js deployment guide](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [env2](https://github.com/dwyl/env2) to store secrets

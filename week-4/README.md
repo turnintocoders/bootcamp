@@ -25,8 +25,7 @@
 
 ## Day 3
 
-- 10.00 - 11.00 [modularise a Node.js server challenge](https://github.com/foundersandcoders/modules-challenge)
-- 11.00 - 18.00 [project](project.md) work
+- 10.00 - 18.00 [project](project.md) work
 
 
 ## Day 4

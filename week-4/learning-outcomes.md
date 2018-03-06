@@ -13,12 +13,12 @@
   - Heroku
 - software architecture
   - basic structure of backend application
-  - writing code in reusable modules
 - testing
   - use `tape` for backend testing
 - JavaScript
   - recursion
-  - promises
+- SQL
+  - setting up PostgreSQL
+  - query introduction
 - security
   - introduction
-  - how to store secrets
