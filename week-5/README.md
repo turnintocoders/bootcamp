@@ -35,7 +35,7 @@
 -- LUNCH --
 
 - 15.00 - 16.30 [Password management](https://github.com/foundersandcoders/ws-password-management)
-- 16.30 - 18.00 [Cookies](https://github.com/foundersandcoders/ws-cookiesf)
+- 16.30 - 18.00 [Cookies](https://github.com/foundersandcoders/ws-cookies)
 
 
 ## Day 5
