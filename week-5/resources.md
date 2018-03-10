@@ -16,10 +16,3 @@
 ## Secrets
 
 - [env2](https://github.com/dwyl/env2) to store secrets
-
-
-## JavaScript
-
-- [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
-- [objects](https://eloquentjavascript.net/04_data.html)
-- [Object-oriented JavaScript for beginners](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS)
