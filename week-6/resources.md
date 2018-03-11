@@ -1,6 +1,10 @@
 # Week 6 - Resources
 
 
+## JWT
+
+- [Learn JSON Web tokens](https://github.com/dwyl/learn-json-web-tokens)
+
 ## JavaScript
 
 - [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)

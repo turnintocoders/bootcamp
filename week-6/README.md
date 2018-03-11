@@ -10,12 +10,11 @@
 ## Day 1
 
 - 10.00 - 11.30 [JWT stateless session](https://github.com/foundersandcoders/ws-jwt-stateless-session)
-- 11.30 - 13.00 [Builing a small app with DB](https://github.com/foundersandcoders/pg-workshop)
+- 11.30 - 13.00 [Express - part 1](https://github.com/foundersandcoders/express-workshop)
 
 -- LUNCH --
 
-- 15.00 - 16.00 [Express - part 1](https://github.com/foundersandcoders/express-workshop)
-- 16.00 - 17.00 guided walk through [resources](resources.md)
+- 15.00 - 17.00 guided walk through [resources](resources.md) and material review
 - 17.00 - 18.00 [project](project.md) introduction
 
 
