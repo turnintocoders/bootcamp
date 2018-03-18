@@ -18,6 +18,7 @@ This project is heavily inspired by [Founders and Coders](https://foundersandcod
 - [Week 4 - Node.js](week-4/README.md)—beginning to write backend code
 - [Week 5 - Database](week-5/README.md)—using a DB in a webapp
 - [Week 6 - Auth](week-6/README.md)—let users authenticate and more JavaScript
+- [Week 7 - Vue.js](week-7/README.md)—the magic of Vue and the power of handlebars
 
 ## Planning
 
