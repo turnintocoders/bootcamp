@@ -10,10 +10,19 @@ This is the list of tasks you need to finish before attending the bootcamp:
   - join our [Gitter chat](https://gitter.im/turnintocoders/codingforeveryone)
   - register on [FreeCodeCamp](https://www.freecodecamp.org/)
   - complete the following FreeCodeCamp sections:
-    - HTML5 & CSS
-    - Basic JavaScript
-    - Object Oriented and Functional Programming
-    - Basic Algorithm Scripting
+    - Responsive Web Design Certification:
+      - Basic HTML and HTML5
+      - Basic CSS
+      - Responsive Web Design Principles
+      - CSS Flexbox
+
+    - Javascript Algorithms And Data Structures Certification:
+      - Basic JavaScript
+      - ES6
+      - Basic Data Structures
+      - Basic Algorithm Scripting
+
+    Or get a minimum 200 points, completing the above plus whatever else you enjoy.
   - create your personal website using [Github pages](https://pages.github.com/)
   - register on [Codewars](https://www.codewars.com/)
     - reach kyu 5
